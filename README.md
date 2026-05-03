@@ -2,19 +2,9 @@
 
 # Hello, I'm Fey X. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Software Engineer · Carleton CS (AI/ML Honours, 3.97)
+Student in Carleton CS (Honours with CO-OP, concentration in AI/ML)
 
 Building developer tools, backend systems, and full-stack platforms.
-
----
-
-## 🧠 About
-Computer Science student at Carleton University.  
-I work across the stack — from performance-critical systems to real-time frontends.  
-
-I care about writing software that is **fast, clear, and actually useful**.
-
----
 
 ## ⚙️ Tech Stack
 
@@ -55,8 +45,6 @@ I care about writing software that is **fast, clear, and actually useful**.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
 
----
-
 ## 🚀 Projects
 
 ### Low-Latency Order Matching Engine
@@ -66,9 +54,6 @@ I care about writing software that is **fast, clear, and actually useful**.
 - Spring Boot + Redis backend  
 - Deployed on AWS  
 
----
-
 ## 🔗 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyx)
 
----
