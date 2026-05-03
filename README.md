@@ -1,61 +1,54 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=feyx/feyx" />
 
-# Hello, I'm Fey X. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Fey+X;Software+Engineer;Building+scalable+systems&center=true&size=30">
+  </a>
+</h1>
 
-Software Engineer · Carleton CS (AI/ML Honours, 3.97)
+<div align="center">
+  <p><samp>
+    Software Engineer · Carleton CS (AI/ML Honours, 3.97 GPA)
+    </br>
+    Building developer tools, backend systems, and full-stack platforms.
+    </br>
+    Focused on performance, clarity, and real-world impact.
+  </samp></p>
 
-Building developer tools, backend systems, and full-stack platforms.
+  <a href="https://www.linkedin.com/in/feyx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 🧠 About
-Computer Science student at Carleton University.  
-I work across the stack — from performance-critical systems to real-time frontends.  
 
-I care about writing software that is **fast, clear, and actually useful**.
+Computer Science student at Carleton University.  
+I build systems across the stack — backend infrastructure, APIs, and real-time applications.
+
+I care about writing software that is **fast, simple, and actually useful**.
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+Python · TypeScript · Java · C++ · Go · SQL
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+React · Next.js · Angular · Node.js · Express.js · Spring Boot · Flask · Django · FastAPI · LangChain · LangGraph · Docker · AWS · Azure · Git · Linux · Jira
 
 ---
 
-## 🚀 Project
+## 🚀 Featured Project
 
 ### Low-Latency Order Matching Engine
-- 50,000+ orders/sec (lock-free design)  
-- Sub-ms latency via ring buffer architecture  
+- 50,000+ orders/sec using lock-free data structures  
+- Sub-millisecond latency via ring buffer architecture  
 - React + TypeScript WebSocket frontend  
 - Spring Boot + Redis backend  
-- Deployed on AWS  
-
----
-
-## 🔗 Links
-[LinkedIn](https://your-linkedin.com) · [Website](https://your-website.com)
+- Deployed on AWS EC2  
 
 ---
 
