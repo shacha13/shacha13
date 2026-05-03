@@ -10,9 +10,8 @@ Building developer tools, backend systems, and full-stack platforms.
 
 ## 🧠 About
 Computer Science student at Carleton University.  
-Currently a Software Engineer Intern at **IBM Canada**.
+I work across the stack — from performance-critical systems to real-time frontends.  
 
-I work across the stack — from low-level systems to real-time frontends.  
 I care about writing software that is **fast, clear, and actually useful**.
 
 ---
@@ -44,34 +43,14 @@ I care about writing software that is **fast, clear, and actually useful**.
 
 ---
 
-## 💼 Experience
-
-**IBM Canada** — Software Engineer Intern  
-*Jan 2026 — Present*  
-- Developer tooling for C++ systems  
-- SQLite indexing platform, telemetry pipelines, SLM integration  
-
-**Stealth Startup** — Software Engineer Intern  
-- Full-stack platform (React, Node.js, Stripe, Supabase)
-
-**Government of Canada** — Software Developer Intern  
-- Frontend workflows + backend refactoring (20k+ users)
-
----
-
 ## 🚀 Project
 
 ### Low-Latency Order Matching Engine
 - 50,000+ orders/sec (lock-free design)  
-- Sub-ms latency (ring buffer architecture)  
-- React + WebSocket frontend  
+- Sub-ms latency via ring buffer architecture  
+- React + TypeScript WebSocket frontend  
 - Spring Boot + Redis backend  
-- AWS deployment  
-
----
-
-## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark)
+- Deployed on AWS  
 
 ---
 
