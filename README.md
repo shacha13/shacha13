@@ -1,39 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=feyx/feyx" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Fey+X;Software+Engineer;Building+scalable+systems&center=true&size=30">
-  </a>
-</h1>
+# Hello, I'm Fey X. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div align="center">
-  <p><samp>
-    Software Engineer · Carleton CS (AI/ML Honours, 3.97 GPA)
-    </br>
-    Building developer tools, backend systems, and full-stack platforms.
-    </br>
-    Focused on performance, clarity, and real-world impact.
-  </samp></p>
+Software Engineer · Carleton CS (AI/ML Honours, 3.97)
 
-  <a href="https://your-linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+Building developer tools, backend systems, and full-stack platforms.
 
 ---
 
 ## 🧠 About
-
 Computer Science student at Carleton University.  
-I build systems across the stack — from backend infrastructure to real-time applications.
+I work across the stack — from performance-critical systems to real-time frontends.  
 
-I care about writing software that is **fast, simple, and actually useful**.
+I care about writing software that is **fast, clear, and actually useful**.
 
 ---
 
@@ -49,35 +28,34 @@ I care about writing software that is **fast, simple, and actually useful**.
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Project
 
 ### Low-Latency Order Matching Engine
-- 50,000+ orders/sec using lock-free design  
-- Sub-millisecond latency via ring buffer architecture  
+- 50,000+ orders/sec (lock-free design)  
+- Sub-ms latency via ring buffer architecture  
 - React + TypeScript WebSocket frontend  
 - Spring Boot + Redis backend  
-- Deployed on AWS EC2  
+- Deployed on AWS  
+
+---
+
+## 🔗 Links
+[LinkedIn](https://your-linkedin.com) · [Website](https://your-website.com)
 
 ---
 
