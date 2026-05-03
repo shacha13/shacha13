@@ -2,19 +2,11 @@
 
 # Hello, I'm Fey X. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Software Engineer · Carleton CS (AI/ML Honours, 3.97)
-
-Building developer tools, backend systems, and full-stack platforms.
-
 ---
 
 ## 🧠 About
-Computer Science student at Carleton University.  
-I work across the stack — from performance-critical systems to real-time frontends.  
-
-I care about writing software that is **fast, clear, and actually useful**.
-
----
+CS Student at Carleton University (Expected grad: Dec 2027)
+Building developer tools, backend systems, and full-stack platforms.
 
 ## ⚙️ Tech Stack
 
